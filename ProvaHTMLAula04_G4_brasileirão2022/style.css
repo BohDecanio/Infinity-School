@@ -1,0 +1,159 @@
+#headerId {
+    background-color: rgb(2, 73, 2); 
+    font-size: 39px; 
+    color: aliceblue;
+    align-items: center;
+    border-color: black;
+}
+
+#img_cbf {
+    width: 40px;
+    margin-left: 5px;
+    border-radius: 48%;
+}
+
+#txt_sec_link {
+    font-size: 14px;
+    list-style-type: none;
+    background-color: rgb(2, 73, 2);
+    color: aliceblue;
+    width:100%;
+}
+
+#links_todos_times {
+    display: flex;
+    justify-content: center;
+}
+
+.menu {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    margin: 0;
+}
+
+.item-menu {
+    margin: 0 50px;
+}
+
+.item-menu a {
+    color: white; 
+    text-decoration: none;
+    font-size: 19px;
+}
+
+.item-menu a:hover {
+    text-decoration: underline; 
+}
+
+#div_semi_header {
+    background-color: rgb(52, 52, 52);
+    font-size: 14px;
+    color: aliceblue;
+    border-color: black;
+}
+
+#table_id {
+
+    border-collapse: collapse;
+    th, td { 
+        border: 1px solid #000; 
+        padding: 8px; 
+        text-align: center; 
+    }
+}
+
+#imgPalmeiras{
+    width: 30px;
+
+}
+
+#imgInter{
+    width: 30px;
+}
+
+#imgFluminense{
+    width: 30px;
+}
+
+#imgCorinthians{
+    width: 30px;
+}
+
+#Section_palmeiras{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: left;
+    background-color: green;
+    font-style: italic;
+    border-style: double;
+    height: 300px;
+    padding: 10px;
+}
+
+#img_estadio_palmeiras{
+    width: 200px;
+}
+
+#Section_internacional{
+    background-color: rgb(206, 0, 0);
+    font-style: italic;
+    border-style: double;
+    height: 300px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: left;
+}
+
+#img_estadio_internacional{
+    width: 200px;
+}
+
+#Section_fluminense{
+    background-color: rgb(32, 146, 38);
+    font-style: italic;
+    border-style: double;
+    height: 300px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: left;
+}
+
+#img_estadio_fluminense{
+    width: 200px;
+}
+
+#Section_corinthians{
+    background-color: rgb(239, 241, 239);
+    font-style: italic;
+    border-style: double;
+    height: 300px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: left;
+}
+
+#img_estadio_corinthians{
+    width: 200px;
+}
+
+#id_footer {
+    margin-top: 100px;
+    background-color: rgb(52, 52, 52);
+    color: aliceblue;
+    align-items: center;
+}
+
+
