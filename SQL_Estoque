@@ -1,0 +1,12 @@
+Recursos: Venv , Sqlite3 , Vs code , MVC , *ChatGPT (criei o prompt, o código inicial e as respecitvas correções).
+
+Linguagens: Python e SQL.
+
+O programa não possue interface operacional para usuário, é toda funcional no terminal, mas com DB funcional.
+
+O programa permite:
+- adicionar produto (id, nome, descrição, quantidade e valor.);
+- registra venda (id, produto vendido, valor da venda, data da venda será registrada no relatorio de vendas);
+- é possivel atualizar a quantidade de um produto, utilizando o parâmetro: id;
+- é possível listar os produtos registrados no estoque;
+- é possível listar as vendas realizadas, com registro da data da venda;
