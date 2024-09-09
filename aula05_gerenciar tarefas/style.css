@@ -1,0 +1,41 @@
+body {
+    padding: 20px;
+}
+
+.task-list {
+    margin-top: 20px;
+}
+
+.task-item {
+    margin-bottom: 10px;
+    padding: 10px;
+    background-color: #f8f9fa;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.task-status {
+    margin-left: 10px;
+    font-weight: bold;
+}
+
+.task-actions {
+    display: flex;
+    gap: 10px;
+}
+
+.user-list-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    margin-bottom: 5px;
+    background-color: #f1f1f1;
+    border-radius: 5px;
+}
+
+.user-list-item button {
+    margin-left: 10px;
+}
